@@ -103,7 +103,7 @@ paginate_path: "blog/page:num"
 collections:
   resume:
     output: true
-    permalink: /:collection/:name
+#    permalink: /:collection/:name
 
 
 # BUILD SETTINGS
