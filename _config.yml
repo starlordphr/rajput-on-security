@@ -22,25 +22,25 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "prashanthrajput@nyu.edu"
+  github: "starlordphr"
+  linkedin: "https://www.linkedin.com/in/prashanthrajput/"
+  facebook: "prashanthrajput"
+  twitter: "starlordphr"
   behance:
   bitbucket:
   dribbble:
-  facebook:
   flickr:
   gitlab:
-  github: "sylhare"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
   vimeo:
   wordpress:
   youtube:
@@ -54,13 +54,13 @@ theme_settings:
     pinterest:
     pocket:
     reddit: true
-    linkedin:
+    linkedin: true
     wordpress:
     email: true
 
   # Scripts / Features 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  google_analytics: "UA-118438361-3"
+  disqus_shortname: "rajputonsecurity"
   katex: true # Enable if using math markup
   
   special_page:
