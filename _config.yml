@@ -9,7 +9,7 @@ description: "Let's learn about cyber security together." # used by search engin
 theme_settings:
   # Meta
   title: Rajput On Security # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/logo-new.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
