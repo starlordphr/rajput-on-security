@@ -16,7 +16,7 @@ For scalability, DNS was designed as a tree structure. At the top of the tree th
 ## Resolving DNS
 Let’s consider the url *www.rajputonsecurity.com* in our discussion. For resolving a DNS query, the web browser first contacts the recursive name server which searches its cache for an entry. If no matching entry is found, this server sends a request to the root server for a reply. The root server then replies with the IP address of the DNS server holding the record for *com*. Recursive DNS server then contacts the TLD name server for an address to the server holding the record for *rajputonsecurity*. Then finally the recursive server queries this name server to get the exact IP address corresponding to *rajputonsecurity.com*.
 
-![dns-resolve-1](/assets/img/posts/CyberNews/dns-resolve-1.png)
+![dns-resolve-1](/assets/img/posts/CyberNews/dns-resolve.png)
 
 ---
 
