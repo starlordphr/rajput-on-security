@@ -117,3 +117,4 @@ Both Meltdown and Spectre are attacks due to vulnerability in the processor arch
 [4]: https://gruss.cc/files/kaiser.pdf "KAISER"
 [5]: https://techcrunch.com/2018/01/11/intel-details-performance-hit-for-meltdown-fix-on-affected-processors/ "Meltdown Performance Hit"
 [6]: https://spectreattack.com/spectre.pdf "Spectre"
+---
