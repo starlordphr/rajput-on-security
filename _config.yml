@@ -99,9 +99,9 @@ paginate: 10
 paginate_path: "blog/page:num"
 
 
-# PORTFOLIO
+# Resume
 collections:
-  portfolio:
+  resume:
     output: true
     permalink: /:collection/:name
 
