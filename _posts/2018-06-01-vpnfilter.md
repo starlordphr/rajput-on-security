@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: VPNFilter - A Sophisticated Modular Malware
 tags: [Cyber News]
+
 ---
 
 For several months, Talos (Cisco's cyber threat intelligence team) has been working with its partners to monitor a sophisticated modular malware called "VPNFilter". The code of this malware overlaps with different versions of BlackEnergy malware - which was responsible for large-scale attacks that targeted devices in Ukraine.
@@ -29,9 +31,10 @@ On 22 May 2018, FBI agents in Pittsburg asked federal Magistrate Judge Lisa Pupo
 ---
 
 ## References
-\[1\] Largent W., "New VPNFilter malware targets at least 500K networking devices worldwide", Talos Intelligence.
-\[2\] Poulsen K., "Exclusive: FBI Seizes Control of Russian Botnet", Daily Beast.
+\[1\] Largent W., "New VPNFilter malware targets at least 500K networking devices worldwide", Talos Intelligence.<br />
+\[2\] Poulsen K., "Exclusive: FBI Seizes Control of Russian Botnet", Daily Beast.<br />
 
 [1]: https://blog.talosintelligence.com/2018/05/VPNFilter.html "New VPNFilter malware targets at least 500K networking devices worldwide"
 [2]: https://www.thedailybeast.com/exclusive-fbi-seizes-control-of-russian-botnet "Exclusive: FBI Seizes Control of Russian Botnet"
+
 ---
