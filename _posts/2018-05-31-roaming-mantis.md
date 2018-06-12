@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Roaming Mantis - DNS Hijacking targeting Android and iOS devices
 tags: [Cyber News]
+
 ---
 
 Discovered by security researchers at Kaspersky Lab, roaming mantis is a DNS Hijacking technique targeting poorly configured routers. Once, the router has been compromised, users are redirected by the hackers using rogue DNS settings to fake versions of legitimate websites.
@@ -21,10 +23,11 @@ If the victim owns an iOS device, the user is redirected to a phishing website t
 ---
 
 ## References
-\[1\] Khandelwal S., "Cybercriminals Hijack Router DNS to Distribute Android Banking Trojan", The Hacker News.
-\[2\] Khandelwal S., "DNS-Hijacking Malware Targeting iOS, Android and Desktop Users Worldwide", The Hacker News.
+\[1\] Khandelwal S., "Cybercriminals Hijack Router DNS to Distribute Android Banking Trojan", The Hacker News.<br />
+\[2\] Khandelwal S., "DNS-Hijacking Malware Targeting iOS, Android and Desktop Users Worldwide", The Hacker News.<br />
 
 
 [1]: https://thehackernews.com/2018/04/android-dns-hijack-malware.html "Cybercriminals Hijack Router DNS to Distribute Android Banking Trojan"
 [2]: https://thehackernews.com/2018/05/routers-dns-hijacking.html "DNS-Hijacking Malware Targeting iOS, Android and Desktop Users Worldwide"
+
 ---
