@@ -105,6 +105,7 @@ Unfortunately, during speculative execution, the conditional branch for the boun
 Both Meltdown and Spectre are attacks due to vulnerability in the processor architecture and they are independent of operating system. The main difference between them both is that while Meltdown exploits vulnerability in out-of-order execution, Spectre tricks the branch prediction module by mistraining it. Moreover, Meltdown can be used to access kernel address space whereas, Spectre is designed to leak secrets from the victim process.
 
 ---
+
 ## References
 \[1\] Lipp M., Schwarz M., Gruss D., Prescher T., Haas W., Mangard S., Kocher P., Genkin D., Yarom Y., and Hamburg M., "Meltdown".<br />
 \[2\] Yarom. Y, and Falkner K., "FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack".<br />
