@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Cyber News Highlight - May 20, 2018
 tags: [Cyber News]
+
 ---
 
 ## Arbitrary code execution vulnerability in 7-Zip
@@ -60,13 +62,13 @@ Full details on the vulnerability have not been released yet.
 ---
 
 ## References
-\[1\] Landave D., "7-Zip: From Uninitialized Memory to Remote Code Execution".
-\[2\] The Verge, "Twitter advising all 330 million users to change passwords after bug exposed them in plain text".
-\[3\] Wired, "A remote hack hijacks Android phones via electric leaks in their memory".
-\[4\] Android Police, "Apps on Android P will no longer be able to monitor your network activity".
-\[5\] IT Pro, "Windows-based CLI susceptible to process injection attack".
-\[6\] Damian Poddebniak, Christian Dresen, Jens Müller, Fabian Ising, Sebastian Schinzel, Simon Friedberger, Juraj Somorovsky, and Jörg Schwenk., "EFAIL".
-\[7\] The Hacker News, "Red Hat Linux DHCP Client Found Vulnerable to Command Injection Attacks".
+\[1\] Landave D., "7-Zip: From Uninitialized Memory to Remote Code Execution".<br />
+\[2\] The Verge, "Twitter advising all 330 million users to change passwords after bug exposed them in plain text".<br />
+\[3\] Wired, "A remote hack hijacks Android phones via electric leaks in their memory".<br />
+\[4\] Android Police, "Apps on Android P will no longer be able to monitor your network activity".<br />
+\[5\] IT Pro, "Windows-based CLI susceptible to process injection attack".<br />
+\[6\] Damian Poddebniak, Christian Dresen, Jens Müller, Fabian Ising, Sebastian Schinzel, Simon Friedberger, Juraj Somorovsky, and Jörg Schwenk., "EFAIL".<br />
+\[7\] The Hacker News, "Red Hat Linux DHCP Client Found Vulnerable to Command Injection Attacks".<br />
 
 
 [1]: https://landave.io/2018/05/7-zip-from-uninitialized-memory-to-remote-code-execution/ "7-Zip: From Uninitialized Memory to Remote Code Execution"
@@ -76,4 +78,5 @@ Full details on the vulnerability have not been released yet.
 [5]: http://www.itpro.co.uk/security/31080/windows-based-cli-susceptible-to-process-injection-attack "Windows-based CLI susceptible to process injection attack"
 [6]: https://efail.de/ "EFAIL"
 [7]: https://thehackernews.com/2018/05/linux-dhcp-hacking.html "Red Hat Linux DHCP Client Found Vulnerable to Command Injection Attacks"
+
 ---
