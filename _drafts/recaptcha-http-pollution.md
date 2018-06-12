@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Leveraging HTTP Parameter Pollution to Bypass reCAPTCHA
 tags: [Cyber News]
+
 ---
 
 ## Background
@@ -94,7 +96,8 @@ This response will be processed by the web application and the user is always gr
 ---
 
 ## References
-\[1\] Riancho A., "reCAPTCHA Bypass via HTTP Parameter Pollution".
+\[1\] Riancho A., "reCAPTCHA Bypass via HTTP Parameter Pollution".<br />
 
 [1]: https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/ "reCAPTCHA Bypass via HTTP Parameter Pollution"
+
 ---
