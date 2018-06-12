@@ -106,12 +106,12 @@ Both Meltdown and Spectre are attacks due to vulnerability in the processor arch
 
 ---
 ## References
-\[1\] Lipp M., Schwarz M., Gruss D., Prescher T., Haas W., Mangard S., Kocher P., Genkin D., Yarom Y., and Hamburg M., "Meltdown".
-\[2\] Yarom. Y, and Falkner K., "FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack".
-\[3\] ZDNet, "[Microsoft: Emergency Patch](http://www.zdnet.com/article/windows-emergency-patch-microsofts-new-update-kills-off-intels-spectre-fix/)". \[Accessed: 14 April, 2018\]
-\[4\] Gruss D., Lipp M., Schwarz M., Fellner R., Maurice C., and Mangard S., "KASLR is Dead: Long Live KASLR".
-\[5\] Tech Crunch, "[Meltdown Performance Hit](https://techcrunch.com/2018/01/11/intel-details-performance-hit-for-meltdown-fix-on-affected-processors/)". \[Accessed: 14 April, 2018\]
-\[6\] Kocher P., Genkin D., Gruss D., Haas W., Hamburg M., Lipp M., Mangard S., Prescher T., Schwarz M., and Yarom Y., "Spectre Attacks: Exploiting Speculative Execution".
+\[1\] Lipp M., Schwarz M., Gruss D., Prescher T., Haas W., Mangard S., Kocher P., Genkin D., Yarom Y., and Hamburg M., "Meltdown".<br />
+\[2\] Yarom. Y, and Falkner K., "FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack".<br />
+\[3\] ZDNet, "[Microsoft: Emergency Patch](http://www.zdnet.com/article/windows-emergency-patch-microsofts-new-update-kills-off-intels-spectre-fix/)". \[Accessed: 14 April, 2018\]<br />
+\[4\] Gruss D., Lipp M., Schwarz M., Fellner R., Maurice C., and Mangard S., "KASLR is Dead: Long Live KASLR".<br />
+\[5\] Tech Crunch, "[Meltdown Performance Hit](https://techcrunch.com/2018/01/11/intel-details-performance-hit-for-meltdown-fix-on-affected-processors/)". \[Accessed: 14 April, 2018\]<br />
+\[6\] Kocher P., Genkin D., Gruss D., Haas W., Hamburg M., Lipp M., Mangard S., Prescher T., Schwarz M., and Yarom Y., "Spectre Attacks: Exploiting Speculative Execution".<br />
 
 [1]: https://meltdownattack.com/meltdown.pdf "Meltdown"
 [2]: https://eprint.iacr.org/2013/448.pdf "Flush+Reload"
