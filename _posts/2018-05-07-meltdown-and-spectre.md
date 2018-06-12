@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Meltdown and Spectre
 tags: [Cyber Threat Watch]
+
 ---
 
 Meltdown and Spectre were disclosed to the public on January 25, 2018 and shocked the cyber security research community. Both Meltdown and Spectre are microarchitectural attacks that exploit out-of-order execution, branch prediction in order to leak kernel or process space secret respectively.
@@ -117,4 +119,5 @@ Both Meltdown and Spectre are attacks due to vulnerability in the processor arch
 [4]: https://gruss.cc/files/kaiser.pdf "KAISER"
 [5]: https://techcrunch.com/2018/01/11/intel-details-performance-hit-for-meltdown-fix-on-affected-processors/ "Meltdown Performance Hit"
 [6]: https://spectreattack.com/spectre.pdf "Spectre"
+
 ---
