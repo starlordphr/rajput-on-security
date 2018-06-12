@@ -64,6 +64,7 @@ In step 1, spy program flushes the monitored memory line from cache hierarchy. I
 Three attacks proposed above are all methods to steal information from the cache using side-channel information which in this case was access latency. Cache side-channel attacks have been ignored by Intel's threat model for a long time but after the widespread vulnerability Meltdown was disclosed to public, I think it's time for Intel to reconsider.
 
 ---
+
 ## References
 \[1\] Osvik A. D., Shamir A., and Tromer E., "Cache Attacks and Countermeasures: the Case of AES".<br />
 \[2\] Percival C., "Cache Missing for Fun and Profit".<br />
@@ -72,4 +73,5 @@ Three attacks proposed above are all methods to steal information from the cache
 [1]: https://eprint.iacr.org/2005/271.pdf "EVICT+TIME"
 [2]: https://www.cs.ucsb.edu/~chong/290N-F06/covert-cache.pdf "PRIME+PROBE"
 [3]: https://eprint.iacr.org/2013/448.pdf "FLUSH+RELOAD"
+
 ---
