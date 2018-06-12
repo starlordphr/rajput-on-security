@@ -4,7 +4,6 @@ title: Attack of the Git Clones
 tags: [Cyber News]
 ---
 
-## Some Background
 Git has some important configuration files that are not fetched from the server, such as the *.git/config* file and other hook files which are basically scripts. These files are run at specific times in the git workflow. For instance, the post-checkout hook is run anytime the git checks out files into the current working directory.
 
 ## Git Vulnerability
