@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Cryptography 101 - Part 1
 tags: [Security 101]
+
 ---
 
 ## Cryptography
@@ -150,4 +152,5 @@ This encryption cannot be cracked but relies on only one-time pre-shared key whi
 
 ## Conclusion
 Since this is the first post on Security 101, it is a simple post. Once we have covered some basics in the coming weeks, we can move forward and dive into some more complicated topics. In the next week we will talk about modern ciphers and go into the methodology of each of those ciphers.
+
 ---
