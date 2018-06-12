@@ -22,9 +22,9 @@ This seems like a very interesting idea and we will talk about this in a separat
 ---
 
 ## References
-\[1\] Nicholas S., "Epyc fail? We can defeat AMD's virtual machine encryption, say boffins", The A Register.
-\[2\] Morbitzer M., Huber M., Horsch J., Wessel S., "SEVered: Subverting AMD’s Virtual Machine Encryption".
-\[3\] 360 Vulcan Team,360 finds blockchain epic vulnerabilities to fully control virtual currency transactions
+\[1\] Nicholas S., "Epyc fail? We can defeat AMD's virtual machine encryption, say boffins", The A Register.<br />
+\[2\] Morbitzer M., Huber M., Horsch J., Wessel S., "SEVered: Subverting AMD’s Virtual Machine Encryption".<br />
+\[3\] 360 Vulcan Team,"360 finds blockchain epic vulnerabilities to fully control virtual currency transactions".<br />
 
 [1]: https://www.theregister.co.uk/2018/05/25/amd_epyc_sev_vm_encryption_bypass/ "Epyc fail? We can defeat AMD's virtual machine encryption, say boffins"
 [2]: https://arxiv.org/pdf/1805.09604.pdf "SEVered: Subverting AMD’s Virtual Machine Encryption"
