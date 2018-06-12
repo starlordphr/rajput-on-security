@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Mirai Botnet - The Future
 tags: [Cyber Threat Watch]
+
 ---
 
 Mirai, Japanese for "the future" is aptly named for a botnet that took control over hundreds of thousands of Internet of Things (IoT) devices starting in September 2016. At it's peak growth, Mirai infected as high as 600K IoT devices which later led to massive denial-of-service (DDoS) attacks on big targets such as Krebs on Security, OVH, and Dyn. For instance Kerbs was hit with a traffic that exceeded 600 Gbps in volume \[[1]\].
@@ -123,11 +125,12 @@ Mirai is an amazing piece of code, while interesting, its simple and combines bo
 ---
 
 ## References
-\[1\] Antonakakis M., April T., Bailey M., Bernhard M., Bursztein E., Cochran J., Durumeric Z., Halderman J. A., Invernizzi L., Kallitsis M., Kumar D., Lever C., Ma Z., Mason J., Menscher D., Seaman C., Sullivan N., Thomas K., Zhou Y., "Understanding the Mirai Botnet".
-\[2\] Cloudflare, "Inside the infamous Mirai IoT Botnet: A Retrospective Analysis".
-\[3\] Herzberg B., Bekerman D., Zeifman I., "Breaking Down Mirai: An IoT DDoS Botnet Analysis"
+\[1\] Antonakakis M., April T., Bailey M., Bernhard M., Bursztein E., Cochran J., Durumeric Z., Halderman J. A., Invernizzi L., Kallitsis M., Kumar D., Lever C., Ma Z., Mason J., Menscher D., Seaman C., Sullivan N., Thomas K., Zhou Y., "Understanding the Mirai Botnet".<br />
+\[2\] Cloudflare, "Inside the infamous Mirai IoT Botnet: A Retrospective Analysis".<br />
+\[3\] Herzberg B., Bekerman D., Zeifman I., "Breaking Down Mirai: An IoT DDoS Botnet Analysis".<br />
 
 [1]: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf "Understanding the Mirai Botnet"
 [2]: https://blog.cloudflare.com/inside-mirai-the-infamous-iot-botnet-a-retrospective-analysis/ "Inside the infamous Mirai IoT Botnet: A Retrospective Analysis"
 [3]: https://www.incapsula.com/blog/malware-analysis-mirai-ddos-botnet.html "Breaking Down Mirai: An IoT DDoS Botnet Analysis"
+
 ---
