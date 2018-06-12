@@ -42,8 +42,8 @@ There are many more such cases where DNS hijacking has led to phishing of userna
 ---
 
 ## References
-\[1\] Andy Greenberg Security, "Hacker Lexicon: What is DNS Hijacking?".
-\[2\] Wilmoth J., "Ethereum Wallet Client MyEtherWallet Succumbs to DNS Hijacking Attack".
+\[1\] Andy Greenberg Security, "Hacker Lexicon: What is DNS Hijacking?".<br />
+\[2\] Wilmoth J., "Ethereum Wallet Client MyEtherWallet Succumbs to DNS Hijacking Attack".<br />
 
 [1]: https://www.wired.com/story/what-is-dns-hijacking/ "Hacker Lexicon: What is DNS Hijacking?"
 [2]: https://www.ccn.com/ethereum-wallet-client-myetherwallet-succumbs-to-dns-hijacking-attack/ "Ethereum Wallet Client MyEtherWallet Succumbs to DNS Hijacking Attack"
