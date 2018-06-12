@@ -101,7 +101,7 @@ paginate_path: "blog/page:num"
 
 # Author
 collections:
-  Author: "https://prashanthrajput.com/"
+  Author:
   output: true
 #    permalink: /:collection/:name
 
