@@ -65,9 +65,9 @@ Three attacks proposed above are all methods to steal information from the cache
 
 ---
 ## References
-\[1\] Osvik A. D., Shamir A., and Tromer E., "Cache Attacks and Countermeasures: the Case of AES".
-\[2\] Percival C., "Cache Missing for Fun and Profit".
-\[3\] Yarom. Y, and Falkner K., "FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack".
+\[1\] Osvik A. D., Shamir A., and Tromer E., "Cache Attacks and Countermeasures: the Case of AES".<br />
+\[2\] Percival C., "Cache Missing for Fun and Profit".<br />
+\[3\] Yarom. Y, and Falkner K., "FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack".<br />
 
 [1]: https://eprint.iacr.org/2005/271.pdf "EVICT+TIME"
 [2]: https://www.cs.ucsb.edu/~chong/290N-F06/covert-cache.pdf "PRIME+PROBE"
