@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Attack on Epyc Processors and EOS
 tags: [Cyber News]
+
 ---
 
 ## Attack on AMD's Virtual Machine Encryption
@@ -27,4 +29,5 @@ This seems like a very interesting idea and we will talk about this in a separat
 [1]: https://www.theregister.co.uk/2018/05/25/amd_epyc_sev_vm_encryption_bypass/ "Epyc fail? We can defeat AMD's virtual machine encryption, say boffins"
 [2]: https://arxiv.org/pdf/1805.09604.pdf "SEVered: Subverting AMD’s Virtual Machine Encryption"
 [3]: http://www.360.cn/newslist/zxzx/360fxqklssjldkwqkzxnhbjy.html "360 finds blockchain epic vulnerabilities to fully control virtual currency transactions"
+
 ---
