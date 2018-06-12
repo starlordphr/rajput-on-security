@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Key-Management Scheme for Distributed Sensor Networks
 tags: [Most Cited]
+
 ---
 
 Distributed Sensor Networks (DSNs) are ad-hoc mobile networks that have sensor nodes with limited computational power and communication capabilities. One of the important characteristics of a DSN is to allow for dynamic addition and deletion of sensor nodes after deployment. This helps the network to grow easily and to replace failing nodes. One of the deployment scenario for these DSN is in hostile areas and hence they need a secure mechanism for communication, sensor capture detection, key revocation and sensor disabling for when a sensor node gets compromised or detected.
@@ -78,10 +80,12 @@ The figure above shows that, out of the pool of 10,000 keys, only 50% of the key
 The discussed key management scheme is simple, scalable, flexible and does not occupy much of the node's memory. This scheme is superior when compared to mission key and pair-wise private key method.
 
 ---
+
 ## References
-\[1\] D. W. Carman, P. S. Kruus and B. J. Matt, "Constraints and Approaches for Distributed Sensor Network Security".
-\[2\] Eschenauer L., Gligor V., "A Key-Management Scheme for Distributed Sensor Networks".
+\[1\] D. W. Carman, P. S. Kruus and B. J. Matt, "Constraints and Approaches for Distributed Sensor Network Security".<br />
+\[2\] Eschenauer L., Gligor V., "A Key-Management Scheme for Distributed Sensor Networks".<br />
 
 [1]: http://people.cs.vt.edu/~kafura/cs6204/Readings/SensorNetworks/SensorNetSecurity-NAILabs.pdf "Constraints and Approaches for Distributed Sensor Network Security"
 [2]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.9193&rep=rep1&type=pdf "A Key-Management Scheme for Distributed Sensor Networks"
+
 ---
