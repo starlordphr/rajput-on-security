@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: A New Variant of Backup Cryptomix Ransomware
 tags: [Cyber News]
+
 ---
 
 The original version of Backup Cryptomix Ransomware mostly spread using email phishing attack. These e-mail campaigns use deceptive tactics to trick users into downloading and opening the attachment. As soon as the attachment is open, the payload is initiated and it starts infecting the machine. The malware drops a payload in the %ProgramData% directory which stops certain critical Windows services that are responsible for backups. The following stop commands are run:
@@ -59,9 +61,10 @@ Another noticeable difference is the file extension that is added to the encrypt
 ---
 
 ## References
-\[1\] Paganini P., Security Affairs, "Experts from Bleeping Computer spotted a new Cryptomix Ransomware variant".
-\[2\] Abrams L., Bleeping Computer, "New Backup Cryptomix Ransomware Variant Actively Infecting Users".
+\[1\] Paganini P., Security Affairs, "Experts from Bleeping Computer spotted a new Cryptomix Ransomware variant".<br />
+\[2\] Abrams L., Bleeping Computer, "New Backup Cryptomix Ransomware Variant Actively Infecting Users".<br />
 
 [1]: https://securityaffairs.co/wordpress/67103/malware/file-cryptomix-ransomware.html "Experts from Bleeping Computer spotted a new Cryptomix Ransomware variant"
 [2]: https://www.bleepingcomputer.com/news/security/new-backup-cryptomix-ransomware-variant-actively-infecting-users/ "New Backup Cryptomix Ransomware Variant Actively Infecting Users"
+
 ---
