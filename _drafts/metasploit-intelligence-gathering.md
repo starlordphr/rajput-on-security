@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Metasploit - Intelligence Gathering
 tags: [Capture The Flag]
+
 ---
 
 Metasploit is an open source framework for performing penetration testing. It provides many utilities for intelligence gathering, payload design and methods to deliver the payload.
@@ -227,4 +229,5 @@ There are many other modules for SSH scanning, FTP scanning and Simple Network M
 
 ## Conclusion
 In this post we discussed in brief about the process of penetration testing and how to use Metasploit for gathering valuable intel for penetration testing. In the next post of this series we will discuss about Vulnerability Scanning.
+
 ---
