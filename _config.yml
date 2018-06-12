@@ -101,7 +101,7 @@ paginate_path: "blog/page:num"
 
 # Resume
 collections:
-  resume:
+  resume: "https://prashanthrajput.com/"
     output: true
 #    permalink: /:collection/:name
 
