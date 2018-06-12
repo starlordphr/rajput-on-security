@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Ethereum Wallet Client Attacked by DNS Hijacking
 tags: [Cyber News]
+
 ---
 
 Recent events following reports that Ethereum wallet client was attacked using DNS Hijacking has made one thing clear that security is as strong as the people who understand it’s importance. Before we go into the details of this attack, let’s talk about some background.
@@ -45,4 +47,5 @@ There are many more such cases where DNS hijacking has led to phishing of userna
 
 [1]: https://www.wired.com/story/what-is-dns-hijacking/ "Hacker Lexicon: What is DNS Hijacking?"
 [2]: https://www.ccn.com/ethereum-wallet-client-myetherwallet-succumbs-to-dns-hijacking-attack/ "Ethereum Wallet Client MyEtherWallet Succumbs to DNS Hijacking Attack"
+
 ---
