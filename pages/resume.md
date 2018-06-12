@@ -1,8 +1,11 @@
 ---
+
 layout: page
 title : Resume
-subtitle: Ph.D. Student in the Computer Science Department at NYU. To download a pdf version of my resume, click <a href="https://rajputonsecurity.com/assets/prashant_resume.pdf">here</a>.
+
 ---
+
+Hi! I'm Prashant Rajput, a Ph.D. Student in the Computer Science Department at NYU and the author of these blogs. To download a pdf version of my resume, click <a href="https://rajputonsecurity.com/assets/prashant_resume.pdf">here</a>.
 
 ### Education
 
