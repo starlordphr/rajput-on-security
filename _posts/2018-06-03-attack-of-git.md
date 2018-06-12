@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Attack of the Git Clones
 tags: [Cyber News]
+
 ---
 
 Git has some important configuration files that are not fetched from the server, such as the *.git/config* file and other hook files which are basically scripts. These files are run at specific times in the git workflow. For instance, the post-checkout hook is run anytime the git checks out files into the current working directory.
@@ -14,7 +16,8 @@ The problem here is that the configuration files are not cloned from the remote 
 ---
 
 ## References
-\[1\] Thomson E., "Announcing the May 2018 Git Security Vulnerability".
+\[1\] Thomson E., "Announcing the May 2018 Git Security Vulnerability".<br />
 
 [1]: https://blogs.msdn.microsoft.com/devops/2018/05/29/announcing-the-may-2018-git-security-vulnerability/ "Announcing the May 2018 Git Security Vulnerability"
+
 ---
