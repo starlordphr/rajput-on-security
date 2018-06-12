@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title: Distributed Denial of Service Attacks - An Overview
 tags: [Scientific Research in Cyber Security]
+
 ---
 
 Denial of service (DoS) is characterized by an explicit attempt by the attacker to prevent a legitimate user from accessing or using a particular resource. The distributed aspect of these DoS attacks makes it difficult to be prevented as a lot of compromised host machines are used for performing these attacks. Such a distributed attempt is known as distributed denial of service (DDoS) \[[1]\].
@@ -151,15 +153,15 @@ So, in this post we discussed a little bit about the inner working of the attack
 ---
 
 ## References
-\[1\] Lau, Felix & H. Rubin, Stuart & Smith, M.H. & Trajkovic, Ljiljana. (2000). "Distributed denial of service attacks".
-\[2\] Imperva Incapsula, "SMURF DDOS ATTACK".
-\[3\] Imperva Incapsula, "TCP SYN FLOOD".
-\[4\] Imperva Incapsula, "UDP FLOOD".
-\[5\] Dittrich D., "The DoS Project's trinoo distributed denial of service attack tool".
-\[6\] Dittrich D., "The Tribe Flood Network distributed denial of service attack tool".
-\[7\] Dittrich D., "The stacheldraht distributed denial of service attack tool".
-\[8\] Dietrich S., "An analysis of the Shaft distributed denial of service tool".
-\[9\] Barlow J., Thrower W., "TFN2K - An Analysis (Revision : 1.3)".
+\[1\] Lau, Felix & H. Rubin, Stuart & Smith, M.H. & Trajkovic, Ljiljana. (2000). "Distributed denial of service attacks".<br />
+\[2\] Imperva Incapsula, "SMURF DDOS ATTACK".<br />
+\[3\] Imperva Incapsula, "TCP SYN FLOOD".<br />
+\[4\] Imperva Incapsula, "UDP FLOOD".<br />
+\[5\] Dittrich D., "The DoS Project's trinoo distributed denial of service attack tool".<br />
+\[6\] Dittrich D., "The Tribe Flood Network distributed denial of service attack tool".<br />
+\[7\] Dittrich D., "The stacheldraht distributed denial of service attack tool".<br />
+\[8\] Dietrich S., "An analysis of the Shaft distributed denial of service tool".<br />
+\[9\] Barlow J., Thrower W., "TFN2K - An Analysis (Revision : 1.3)".<br />
 
 
 [1]: https://www.researchgate.net/publication/3876432_Distributed_denial_of_service_attacks "Distributed Denial of Service Attacks"
@@ -171,4 +173,5 @@ So, in this post we discussed a little bit about the inner working of the attack
 [7]: https://staff.washington.edu/dittrich/misc/stacheldraht.analysis "The \"stacheldraht\" distributed denial of service attack tool"
 [8]: http://home.adelphi.edu/~spock/shaft_analysis.txt "An analysis of the \"Shaft\" distributed denial of service tool"
 [9]: http://securityresponse.symantec.com/avcenter/security/Content/2000_02_10_a.html "TFN2K - An Analysis (Revision : 1.3)"
+
 ---
