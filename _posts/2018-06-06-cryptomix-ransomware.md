@@ -6,7 +6,9 @@ tags: [Cyber News]
 
 ---
 
-The original version of Backup Cryptomix Ransomware mostly spread using email phishing attack. These e-mail campaigns use deceptive tactics to trick users into downloading and opening the attachment. As soon as the attachment is open, the payload is initiated and it starts infecting the machine. The malware drops a payload in the %ProgramData% directory which stops certain critical Windows services that are responsible for backups. The following stop commands are run:
+The original version of Backup Cryptomix Ransomware mostly spread using email phishing attack. These e-mail campaigns use deceptive tactics to trick users into downloading and opening the attachment. As soon as the attachment is open, the payload is initiated and it starts infecting the machine.
+
+The malware drops a payload in the %ProgramData% directory which stops certain critical Windows services that are responsible for backups. The following stop commands are run:
 ```
 sc stop VVS
 sc stop wscsvc

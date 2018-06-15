@@ -6,9 +6,9 @@ tags: [Cyber News]
 
 ---
 
-## Background
+reCAPTCHA is a Google service that allows web applications to present some challenges to the users to protect the web application against bots. When the web application wants to challenge the user, Google provides a set of images and uses JavaScript to show them in the browser. The user then solves the CAPTCHA and an HTTP request is sent to the web application.
 
-reCAPTCHA is a Google service that allows web applications to present some challenges to the users to protect the web application against bots. When the web application wants to challenge the user, Google provides a set of images and uses JavaScript to show them in the browser. The user then solves the CAPTCHA and an HTTP request is sent to the web application which looks something like:
+The HTTP request looks something like:
 ```
 POST /verify-recaptcha-response HTTP/1.1
 Host: vulnerable-app.com
