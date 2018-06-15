@@ -16,7 +16,7 @@ Cortana changes search results according to the query specified by the user and 
 * Land a PowerShell script in a location that will be indexed. This can be a shared drive, or one drive of the user or even a USB. These locations are also generally indexed by Windows.
 * Execute a search query that will show the document and click on it by saying the command “Hey Cortana, PS1”. Then select the PowerShell script you just indexed and left click. The PowerShell script then opens in Notepad.
 
-![Arbitrary Code Execution](/assets/img/posts/CyberNews/cortana-code-2.png)
+![Arbitrary Code Execution](/assets/img/posts/CyberNews/cortana-code-4.png)
 
 * Execute a search query that will show the recent documents, right click and using Cortana, type or search in the contextual menu for “txt”. Right click on the PowerShell script in the Recent category under the Apps tab at the top (not Documents) and click on “Run with PowerShell”.
 
