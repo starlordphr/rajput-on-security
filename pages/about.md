@@ -6,9 +6,6 @@ permalink: /about/
 
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hello! I'm Prashant Rajput, a Ph.D. student in the Computer Science department at New York University (NYU) and the author of [Rajput On Security] (https://rajputonsecurity.com). The main idea behind this website is to create a platform where we talk about not only the recent Cyber News but also about the current research being done in the Cyber Security community. To read my upcoming posts early, please go to my [GitHub repository] (https://github.com/starlordphr/rajput-on-security/tree/master/_drafts).
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+To know more about me, please feel free to go through my [personal web page] (https://prashanthrajput.com/).
