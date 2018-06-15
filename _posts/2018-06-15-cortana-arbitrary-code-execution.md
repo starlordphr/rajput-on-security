@@ -24,7 +24,11 @@ Cortana changes search results according to the query specified by the user and 
 
 Using similar steps, a Powershell script can be written with **HIGH** integrity to reset victim's login credentials just by using Cortana.**HIGH** integrity allows a script to be executed without User Account Control (UAC) \[[1]\].
 
+---
+
 ## References
 \[1\] Cochin C., Povolny S., "Want to Break Into a Locked Windows 10 Device? Ask Cortana (CVE-2018-8140)".
 
 [1]: https://securingtomorrow.mcafee.com/mcafee-labs/want-to-break-into-a-locked-windows-10-device-ask-cortana-cve-2018-8140/ "Want to Break Into a Locked Windows 10 Device? Ask Cortana (CVE-2018-8140)"
+
+---
